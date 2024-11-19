@@ -5,6 +5,6 @@ Skills Used :- <br/>
 --> CSS <br/>
 --> JS <br/>
 --> Tailwind CSS <br/>
---> React JS
---> Node JS 
---> Redux JS
+--> React JS <br/>
+--> Node JS <br/>
+--> Redux JS <br/>
